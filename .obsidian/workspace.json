@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "adcaf29a4ae010e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c2beea0b07a90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f673077d7af3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "链接库/如何量化生产“生产力”的生产力的大小.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a9b77717b40f5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志/2024-03-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ae22dc2f74cc42",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee3ded12913a6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62801702ef3e8e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e81ae867e812b3e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ccde70326dfdb63",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.51103591918945
+  },
+  "right": {
+    "id": "8e2aa16dda3e21ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "910595bf366190d8",
+        "type": "tabs",
+        "dimension": 32.55813953488372,
+        "children": [
+          {
+            "id": "f477e293ba2692b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f86c44dcfabe740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ea708669ca731e9",
+        "type": "tabs",
+        "dimension": 67.44186046511628,
+        "children": [
+          {
+            "id": "a407204e13063a71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "链接库/如何量化生产“生产力”的生产力的大小.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c09f563ac93976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "链接库/如何量化生产“生产力”的生产力的大小.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "日期",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeba558a98786789",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "433c2b4dc7b4a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "链接库/如何量化生产“生产力”的生产力的大小.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "62801702ef3e8e7a",
+  "lastOpenFiles": [
+    "链接库/未命名.md",
+    "Pasted image 20240323202739.png",
+    "日志/2024-03-23.md",
+    "链接库/C++程序代码与操作系统之间的交互.md",
+    "链接库/自动化领域都有哪些开创性的论文，作者和主要贡献.md",
+    "链接库/比较GUI framework（或 library）.md",
+    "链接库/MFC与.NET等framework的关系是什么.md",
+    "链接库/Windows安装包 制作工具.md",
+    "日志/2024-03-19.md",
+    "链接库/分组测验答案.md",
+    "链接库/SLAM技术.md",
+    "日志/2024-03-14.md",
+    "日志/2024-03-13.md",
+    "链接库/对文件读写作优化.md",
+    "链接库/01背包的两种解法.md",
+    "链接库/queue(队列)的使用.md",
+    "链接库/MSCV和Cmack编译器.md",
+    "链接库/typedef的用法.md",
+    "链接库/项目进度和资源管理.md",
+    "链接库/AR需要的技术支持.md",
+    "链接库/如何用vector创建二维数组.md",
+    "链接库/stdafx.h.md",
+    "日志/2024-03-06.md",
+    "日志/2024-03-07.md",
+    "日志/2024-03-10.md",
+    "链接库/微积分复习题目.md",
+    "Pasted image 20240310221314.png",
+    "作业/240210/~$二章实训作业.docx",
+    "作业/240210/第二章实训作业 1.docx",
+    "作业/240210/第二章实训作业.docx",
+    "作业/240210",
+    "作业",
+    "演讲稿",
+    "Wiki_PDF/Game_Engines.pdf",
+    "Wiki_PDF/图形用户界面.pdf",
+    "Wiki_PDF/应用程序框架.pdf",
+    "Wiki_PDF",
+    "日志/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
